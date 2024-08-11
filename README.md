@@ -4,7 +4,6 @@
 **YaelCrz05/YaelCrz05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Escudo-UNAM-escalable svg](https://github.com/user-attachments/assets/4a4ebd11-e2b0-4f8c-aa4f-c656c1c682d7)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
